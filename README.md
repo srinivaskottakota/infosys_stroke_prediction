@@ -1,1 +1,0 @@
-# infosys_stroke_prediction
