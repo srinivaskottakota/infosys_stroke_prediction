@@ -36,3 +36,22 @@ Summary of Findings:
 Best Model: Logistic Regression (93.93% Accuracy)
 Poor Performers: Linear, Lasso, and Ridge Regression (Accuracy < 10%)
 Metric Consideration: RMSE is less important for classification problems like this, where accuracy is the more appropriate evaluation metric.
+
+Output:
+Linear Regression Accuracy: 9.10%
+Linear Regression RMSE: 22.76%
+
+Lasso Regression Accuracy: 0.94%
+Lasso Regression RMSE: 23.76%
+
+Ridge Regression Accuracy: 9.10%
+Ridge Regression RMSE: 22.76%
+
+Logistic Regression Accuracy: 93.93%
+Logistic Regression RMSE: 24.63%
+
+                 Model   Accuracy       RMSE
+0    Linear Regression   9.355712  22.727454
+1     Lasso Regression   0.942424  23.758795
+2     Ridge Regression   9.354708  22.727580
+3  Logistic Regression  93.933464  24.630339
